@@ -1,0 +1,24 @@
+[
+      {
+        "name" : "Pusicat",
+        "species" : "Cat",
+        "favFoods" : "chocolate",
+        "birthYear" : 2015,
+        "photo" : "https://cat.com"
+      },
+      {
+        "name" : "Goldcut",
+        "species" : "Parrot",
+        "birthYear" : 2001,
+        "favFoods" : "fruits",
+        "photo" : "http://parrot.com"
+      },
+      {
+        "name" : "Skynet",
+        "species" : "Iguana",
+        "favFoods" : "tuna",
+        "birthYear" : 2035,
+        "photo" : "https://guana.com"
+      }
+]
+  
